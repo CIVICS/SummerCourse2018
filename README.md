@@ -1,4 +1,4 @@
-# Summer Course 2018
+# Summer STEM Course 2018
 
 * Link to site: [https://civics.github.io/SummerCourse2018/](https://civics.github.io/SummerCourse2018/)
 
