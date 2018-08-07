@@ -1,6 +1,7 @@
 # Summer STEM Course 2018
 
-* Link to site: [https://civics.github.io/SummerCourse2018/](https://civics.github.io/SummerCourse2018/)
+* Link to site: [https://civics.github.io/SummerCourse2018/](https://civics.github.io/SummerCourse2018)
+* Link to informal media: [https://github.com/CIVICS/SummerCourse2018/tree/master/media](https://github.com/CIVICS/SummerCourse2018/tree/master/media) (note: additional photos and video will be added over time)
 
 ## Course Slides:
 
